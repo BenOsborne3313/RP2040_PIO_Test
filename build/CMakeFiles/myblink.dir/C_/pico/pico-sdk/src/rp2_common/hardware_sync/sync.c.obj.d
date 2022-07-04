@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\hardware_sync\sync.c \
  C:\pico\pico-sdk\src\rp2_common\hardware_sync\include/hardware/sync.h \
  C:\pico\pico-sdk\src\common\pico_base\include/pico.h \

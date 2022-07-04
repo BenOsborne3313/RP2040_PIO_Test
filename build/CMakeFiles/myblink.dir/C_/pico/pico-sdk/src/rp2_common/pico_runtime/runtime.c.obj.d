@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\stdio.h \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\_ansi.h \

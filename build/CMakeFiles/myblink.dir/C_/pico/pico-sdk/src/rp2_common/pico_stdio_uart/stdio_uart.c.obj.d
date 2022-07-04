@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c \
  C:\pico\pico-sdk\src\rp2_common\pico_stdio\include/pico/stdio/driver.h \
  C:\pico\pico-sdk\src\rp2_common\pico_stdio\include/pico/stdio.h \

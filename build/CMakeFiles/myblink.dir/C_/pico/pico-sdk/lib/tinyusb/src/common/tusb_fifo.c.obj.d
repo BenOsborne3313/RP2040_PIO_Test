@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj: \
  C:\pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c \
  C:\pico\pico-sdk\lib\tinyusb\src/osal/osal.h \
  C:\pico\pico-sdk\lib\tinyusb\src/common/tusb_common.h \

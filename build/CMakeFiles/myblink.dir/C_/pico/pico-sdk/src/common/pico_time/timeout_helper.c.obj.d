@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj: \
  C:\pico\pico-sdk\src\common\pico_time\timeout_helper.c \
  C:\pico\pico-sdk\src\common\pico_time\include/pico/timeout_helper.h \
  C:\pico\pico-sdk\src\common\pico_time\include/pico/time.h \

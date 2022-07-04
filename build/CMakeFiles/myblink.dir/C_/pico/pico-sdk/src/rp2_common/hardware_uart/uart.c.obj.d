@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\hardware_uart\uart.c \
  C:\pico\pico-sdk\src\rp2_common\hardware_base\include/hardware/address_mapped.h \
  C:\pico\pico-sdk\src\common\pico_base\include/pico.h \

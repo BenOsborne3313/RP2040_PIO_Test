@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\common\pico_sync\lock_core.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\common\pico_sync\lock_core.c.obj: \
  C:\pico\pico-sdk\src\common\pico_sync\lock_core.c \
  C:\pico\pico-sdk\src\common\pico_sync\include/pico/lock_core.h \
  C:\pico\pico-sdk\src\common\pico_base\include/pico.h \

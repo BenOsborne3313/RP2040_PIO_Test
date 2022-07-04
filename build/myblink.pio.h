@@ -13,19 +13,21 @@
 // ------- //
 
 #define myblink_wrap_target 0
-#define myblink_wrap 1
+#define myblink_wrap 3
 
 static const uint16_t myblink_program_instructions[] = {
             //     .wrap_target
-    0xe001, //  0: set    pins, 1                    
-    0xe000, //  1: set    pins, 0                    
+    0xe000, //  0: set    pins, 0                    
+    0x400a, //  1: in     pins, 10                   
+    0xe001, //  2: set    pins, 1                    
+    0xa042, //  3: nop                               
             //     .wrap
 };
 
 #if !PICO_NO_HARDWARE
 static const struct pio_program myblink_program = {
     .instructions = myblink_program_instructions,
-    .length = 2,
+    .length = 4,
     .origin = -1,
 };
 
@@ -34,23 +36,5 @@ static inline pio_sm_config myblink_program_get_default_config(uint offset) {
     sm_config_set_wrap(&c, offset + myblink_wrap_target, offset + myblink_wrap);
     return c;
 }
-
-// Helper function (for use in C program) to initialize this PIO program
-void myblink_program_init(PIO pio, uint sm, uint offset, uint pin, float div) {
-    // Sets up state machine and wrap target. This function is automatically
-    // generated in blink.pio.h.
-    pio_sm_config c = myblink_program_get_default_config(offset);
-    // Allow PIO to control GPIO pin (as output)
-    pio_gpio_init(pio, pin);
-    // Connect pin to SET pin (control with 'set' instruction)
-    sm_config_set_set_pins(&c, pin, 1);
-    // Set the pin direction to output (in PIO)
-    pio_sm_set_consecutive_pindirs(pio, sm, pin, 1, true);
-    // Set the clock divider for the state machine
-    sm_config_set_clkdiv(&c, div);
-    // Load configuration and jump to start of the program
-    pio_sm_init(pio, sm, offset, &c);
-}
-
 #endif
 

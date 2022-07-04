@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\pico_float\float_math.c \
  C:\pico\pico-sdk\src\common\pico_base\include/pico/types.h \
  C:\pico\pico-sdk\src\common\pico_base\include/pico/assert.h \

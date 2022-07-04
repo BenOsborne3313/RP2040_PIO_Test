@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\common\pico_util\queue.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\common\pico_util\queue.c.obj: \
  C:\pico\pico-sdk\src\common\pico_util\queue.c \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\stdlib.h \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\machine\ieeefp.h \

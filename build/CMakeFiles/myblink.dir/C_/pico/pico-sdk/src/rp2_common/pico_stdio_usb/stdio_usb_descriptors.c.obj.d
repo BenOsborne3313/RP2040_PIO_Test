@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c \
  C:\pico\pico-sdk\lib\tinyusb\src/tusb.h \
  C:\pico\pico-sdk\lib\tinyusb\src/common/tusb_common.h \

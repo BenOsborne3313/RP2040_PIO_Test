@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c \
  C:\pico\pico-sdk\src\common\pico_binary_info\include/pico/binary_info.h \
  C:\pico\pico-sdk\src\common\pico_binary_info\include/pico/binary_info/defs.h \

@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\hardware_claim\claim.c \
  C:\pico\pico-sdk\src\rp2_common\hardware_claim\include/hardware/claim.h \
  C:\pico\pico-sdk\src\common\pico_base\include/pico.h \

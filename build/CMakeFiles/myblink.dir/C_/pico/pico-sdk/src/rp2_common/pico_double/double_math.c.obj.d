@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\pico_double\double_math.c \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\math.h \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\reent.h \

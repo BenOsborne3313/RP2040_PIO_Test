@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\main.c.obj: C:\pico\PICO_Programs\myBlink\main.c \
+CMakeFiles\myBlink.dir\main.c.obj: C:\pico\PICO_Programs\myBlink\main.c \
  C:\pico\pico-sdk\src\common\pico_stdlib\include/pico/stdlib.h \
  C:\pico\pico-sdk\src\common\pico_base\include/pico.h \
  C:\pico\pico-sdk\src\common\pico_base\include/pico/types.h \
@@ -44,7 +44,7 @@ CMakeFiles\myblink.dir\main.c.obj: C:\pico\PICO_Programs\myBlink\main.c \
  C:\pico\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/uart.h \
  C:\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/uart.h \
  C:\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/dreq.h \
- C:\pico\pico-sdk\src\rp2_common\pico_stdio_uart\include/pico/stdio_uart.h \
+ C:\pico\pico-sdk\src\rp2_common\pico_stdio_usb\include/pico/stdio_usb.h \
  C:\pico\pico-sdk\src\rp2_common\hardware_pio\include/hardware/pio.h \
  C:\pico\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/pio.h \
  C:\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/pio.h \
@@ -52,4 +52,33 @@ CMakeFiles\myblink.dir\main.c.obj: C:\pico\PICO_Programs\myBlink\main.c \
  C:\pico\pico-sdk\src\rp2_common\hardware_clocks\include/hardware/clocks.h \
  C:\pico\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/clocks.h \
  C:\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/clocks.h \
- C:\pico\PICO_Programs\build/myblink.pio.h
+ C:\pico\PICO_Programs\build/myblink.pio.h \
+ C:\pico\pico-sdk\src\rp2_common\hardware_dma\include/hardware/dma.h \
+ C:\pico\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/dma.h \
+ C:\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/dma.h \
+ C:\pico\pico-sdk\src\rp2_common\hardware_irq\include/hardware/irq.h \
+ C:\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/intctrl.h \
+ C:\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/m0plus.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\stdio.h \
+ c:\progra~2\gnuarm~1\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stdarg.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\reent.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\_ansi.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\_types.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\machine\_types.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\lock.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\types.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\machine\endian.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\machine\_endian.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\select.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\_sigset.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\_timeval.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\timespec.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\_timespec.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\_pthreadtypes.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\sched.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\machine\types.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\stdio.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\stdlib.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\machine\stdlib.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\alloca.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\math.h

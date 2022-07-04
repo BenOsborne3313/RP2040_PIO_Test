@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\string.h \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\_ansi.h \
@@ -63,8 +63,4 @@ CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\pico_printf\include/pico/printf.h \
  C:\pico\pico-sdk\src\rp2_common\pico_stdio\include/pico/stdio.h \
  C:\pico\pico-sdk\src\rp2_common\pico_stdio\include/pico/stdio/driver.h \
- C:\pico\pico-sdk\src\rp2_common\pico_stdio_uart\include/pico/stdio_uart.h \
- C:\pico\pico-sdk\src\rp2_common\hardware_uart\include/hardware/uart.h \
- C:\pico\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/uart.h \
- C:\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/uart.h \
- C:\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/dreq.h
+ C:\pico\pico-sdk\src\rp2_common\pico_stdio_usb\include/pico/stdio_usb.h

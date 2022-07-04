@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj: \
  C:\pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c \
  C:\pico\pico-sdk\lib\tinyusb\src/tusb_option.h \
  C:\pico\pico-sdk\src\rp2_common\pico_stdio_usb\include/tusb_config.h \

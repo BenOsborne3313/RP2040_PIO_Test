@@ -901,7 +901,7 @@
 					[
 						0
 					],
-					"name" : "myblink",
+					"name" : "myBlink",
 					"targetIndexes" : 
 					[
 						0,
@@ -999,14 +999,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ELF2UF2Build::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ELF2UF2Build-Debug-ddb8f7979fe97e34cda9.json",
+					"jsonFile" : "target-ELF2UF2Build-Debug-2145ae063e5adbc6d229.json",
 					"name" : "ELF2UF2Build",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "PioasmBuild::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PioasmBuild-Debug-ec625cf8dbc6d7dad45d.json",
+					"jsonFile" : "target-PioasmBuild-Debug-18dc9b7f86b51b8693d0.json",
 					"name" : "PioasmBuild",
 					"projectIndex" : 0
 				},
@@ -1033,16 +1033,16 @@
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "myblink::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-myblink-Debug-e2d7789864ef86ef4085.json",
-					"name" : "myblink",
+					"id" : "myBlink::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-myBlink-Debug-3c526976dab0593cb8e1.json",
+					"name" : "myBlink",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "myblink_myblink_pio_h::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-myblink_myblink_pio_h-Debug-6707341d2e98ac71e0df.json",
-					"name" : "myblink_myblink_pio_h",
+					"id" : "myBlink_myblink_pio_h::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-myBlink_myblink_pio_h-Debug-4dec1f95c2be2a59b20f.json",
+					"name" : "myBlink_myblink_pio_h",
 					"projectIndex" : 0
 				}
 			]

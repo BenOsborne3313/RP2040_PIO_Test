@@ -52,7 +52,7 @@ CMAKE_BINARY_DIR = C:\pico\PICO_Programs\build
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles\myblink.dir\all
+all: CMakeFiles\myBlink.dir\all
 all: CMakeFiles\PioasmBuild.dir\all
 all: CMakeFiles\ELF2UF2Build.dir\all
 all: pico-sdk\all
@@ -63,9 +63,9 @@ preinstall: pico-sdk\preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles\myblink.dir\clean
+clean: CMakeFiles\myBlink.dir\clean
 clean: CMakeFiles\PioasmBuild.dir\clean
-clean: CMakeFiles\myblink_myblink_pio_h.dir\clean
+clean: CMakeFiles\myBlink_myblink_pio_h.dir\clean
 clean: CMakeFiles\ELF2UF2Build.dir\clean
 clean: pico-sdk\clean
 .PHONY : clean
@@ -1312,32 +1312,32 @@ pico-sdk\tools\clean:
 .PHONY : pico-sdk\tools\clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/myblink.dir
+# Target rules for target CMakeFiles/myBlink.dir
 
 # All Build rule for target.
-CMakeFiles\myblink.dir\all: CMakeFiles\myblink_myblink_pio_h.dir\all
-CMakeFiles\myblink.dir\all: CMakeFiles\ELF2UF2Build.dir\all
-CMakeFiles\myblink.dir\all: pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_padded_checksummed_asm.dir\all
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\myblink.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\myblink.dir\depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\myblink.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\myblink.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\pico\PICO_Programs\build\CMakeFiles --progress-num=22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69 "Built target myblink"
-.PHONY : CMakeFiles\myblink.dir\all
+CMakeFiles\myBlink.dir\all: CMakeFiles\ELF2UF2Build.dir\all
+CMakeFiles\myBlink.dir\all: CMakeFiles\myBlink_myblink_pio_h.dir\all
+CMakeFiles\myBlink.dir\all: pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_padded_checksummed_asm.dir\all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\myBlink.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\myBlink.dir\depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\myBlink.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\myBlink.dir\build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\pico\PICO_Programs\build\CMakeFiles --progress-num=22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93 "Built target myBlink"
+.PHONY : CMakeFiles\myBlink.dir\all
 
 # Build rule for subdir invocation for target.
-CMakeFiles\myblink.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\pico\PICO_Programs\build\CMakeFiles 69
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\myblink.dir\all
+CMakeFiles\myBlink.dir\rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\pico\PICO_Programs\build\CMakeFiles 93
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\myBlink.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\pico\PICO_Programs\build\CMakeFiles 0
-.PHONY : CMakeFiles\myblink.dir\rule
+.PHONY : CMakeFiles\myBlink.dir\rule
 
 # Convenience name for target.
-myblink: CMakeFiles\myblink.dir\rule
-.PHONY : myblink
+myBlink: CMakeFiles\myBlink.dir\rule
+.PHONY : myBlink
 
 # clean rule for target.
-CMakeFiles\myblink.dir\clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\myblink.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\myblink.dir\clean
-.PHONY : CMakeFiles\myblink.dir\clean
+CMakeFiles\myBlink.dir\clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\myBlink.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\myBlink.dir\clean
+.PHONY : CMakeFiles\myBlink.dir\clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/PioasmBuild.dir
@@ -1366,30 +1366,30 @@ CMakeFiles\PioasmBuild.dir\clean:
 .PHONY : CMakeFiles\PioasmBuild.dir\clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/myblink_myblink_pio_h.dir
+# Target rules for target CMakeFiles/myBlink_myblink_pio_h.dir
 
 # All Build rule for target.
-CMakeFiles\myblink_myblink_pio_h.dir\all: CMakeFiles\PioasmBuild.dir\all
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\myblink_myblink_pio_h.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\myblink_myblink_pio_h.dir\depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\myblink_myblink_pio_h.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\myblink_myblink_pio_h.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\pico\PICO_Programs\build\CMakeFiles --progress-num=70 "Built target myblink_myblink_pio_h"
-.PHONY : CMakeFiles\myblink_myblink_pio_h.dir\all
+CMakeFiles\myBlink_myblink_pio_h.dir\all: CMakeFiles\PioasmBuild.dir\all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\myBlink_myblink_pio_h.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\myBlink_myblink_pio_h.dir\depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\myBlink_myblink_pio_h.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\myBlink_myblink_pio_h.dir\build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\pico\PICO_Programs\build\CMakeFiles --progress-num=94 "Built target myBlink_myblink_pio_h"
+.PHONY : CMakeFiles\myBlink_myblink_pio_h.dir\all
 
 # Build rule for subdir invocation for target.
-CMakeFiles\myblink_myblink_pio_h.dir\rule: cmake_check_build_system
+CMakeFiles\myBlink_myblink_pio_h.dir\rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\pico\PICO_Programs\build\CMakeFiles 9
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\myblink_myblink_pio_h.dir\all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\myBlink_myblink_pio_h.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\pico\PICO_Programs\build\CMakeFiles 0
-.PHONY : CMakeFiles\myblink_myblink_pio_h.dir\rule
+.PHONY : CMakeFiles\myBlink_myblink_pio_h.dir\rule
 
 # Convenience name for target.
-myblink_myblink_pio_h: CMakeFiles\myblink_myblink_pio_h.dir\rule
-.PHONY : myblink_myblink_pio_h
+myBlink_myblink_pio_h: CMakeFiles\myBlink_myblink_pio_h.dir\rule
+.PHONY : myBlink_myblink_pio_h
 
 # clean rule for target.
-CMakeFiles\myblink_myblink_pio_h.dir\clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\myblink_myblink_pio_h.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\myblink_myblink_pio_h.dir\clean
-.PHONY : CMakeFiles\myblink_myblink_pio_h.dir\clean
+CMakeFiles\myBlink_myblink_pio_h.dir\clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\myBlink_myblink_pio_h.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\myBlink_myblink_pio_h.dir\clean
+.PHONY : CMakeFiles\myBlink_myblink_pio_h.dir\clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/ELF2UF2Build.dir

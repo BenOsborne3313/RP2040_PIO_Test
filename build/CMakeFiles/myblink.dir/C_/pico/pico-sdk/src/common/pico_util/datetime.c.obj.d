@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\common\pico_util\datetime.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\common\pico_util\datetime.c.obj: \
  C:\pico\pico-sdk\src\common\pico_util\datetime.c \
  C:\pico\pico-sdk\src\common\pico_util\include/pico/util/datetime.h \
  C:\pico\pico-sdk\src\common\pico_base\include/pico.h \

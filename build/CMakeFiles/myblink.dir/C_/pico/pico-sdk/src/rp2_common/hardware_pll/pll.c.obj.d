@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\hardware_pll\pll.c \
  C:\pico\pico-sdk\src\rp2_common\hardware_clocks\include/hardware/clocks.h \
  C:\pico\pico-sdk\src\common\pico_base\include/pico.h \

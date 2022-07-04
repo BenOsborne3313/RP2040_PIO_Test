@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c \
  C:\pico\pico-sdk\src\rp2_common\hardware_flash\include/hardware/flash.h \
  C:\pico\pico-sdk\src\common\pico_base\include/pico.h \

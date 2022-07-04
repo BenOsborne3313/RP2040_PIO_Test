@@ -1,4 +1,4 @@
-CMakeFiles\myblink.dir\C_\pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj: \
+CMakeFiles\myBlink.dir\C_\pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj: \
  C:\pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c \
  C:\pico\pico-sdk\src\common\pico_base\include/pico.h \
  C:\pico\pico-sdk\src\common\pico_base\include/pico/types.h \

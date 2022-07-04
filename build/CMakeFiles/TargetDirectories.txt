@@ -1,6 +1,6 @@
-C:/pico/PICO_Programs/build/CMakeFiles/myblink.dir
+C:/pico/PICO_Programs/build/CMakeFiles/myBlink.dir
 C:/pico/PICO_Programs/build/CMakeFiles/PioasmBuild.dir
-C:/pico/PICO_Programs/build/CMakeFiles/myblink_myblink_pio_h.dir
+C:/pico/PICO_Programs/build/CMakeFiles/myBlink_myblink_pio_h.dir
 C:/pico/PICO_Programs/build/CMakeFiles/ELF2UF2Build.dir
 C:/pico/PICO_Programs/build/CMakeFiles/edit_cache.dir
 C:/pico/PICO_Programs/build/CMakeFiles/rebuild_cache.dir
